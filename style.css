@@ -6,8 +6,8 @@
     margin: 0 20px;
 }
 .bigpic{
-    height: 450px;
-    width: 500px;
+    height: 400px;
+    width: 450px;
 }
 .shop{
     text-decoration: none;
@@ -51,4 +51,8 @@ footer{
 .orange, .price{
     color: rgb(253, 83, 31);
     font-weight: bold;
+}
+.size-change{
+    height: 400px;
+    width: 400px;
 }
